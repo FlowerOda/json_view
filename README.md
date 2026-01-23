@@ -10,20 +10,20 @@ https://floweroda.github.io/json_view/
 - 支持 匹配数据多种显示方式
 - 支持将部分超长字段替换为...
 
-
-
-![image-20260123203145369](C:\Users\forgui\AppData\Roaming\Typora\typora-user-images\image-20260123203145369.png)
+![image-20260123210427971](README.assets/image-20260123210427971.png)
 
 
 
-![image-20260123203219307](C:\Users\forgui\AppData\Roaming\Typora\typora-user-images\image-20260123203219307.png)
+![image-20260123210438843](README.assets/image-20260123210438843.png)
 
-![image-20260123203246997](C:\Users\forgui\AppData\Roaming\Typora\typora-user-images\image-20260123203246997.png)
+![image-20260123210450800](README.assets/image-20260123210450800.png)
 
-![image-20260123204418237](C:\Users\forgui\AppData\Roaming\Typora\typora-user-images\image-20260123204418237.png)
+![image-20260123210457985](README.assets/image-20260123210457985.png)
 
-如果想要私有部署 请安装python3.8+ 
-新建front文件夹，然后将index.html和assets目录都移动到front,在启动python脚本即可
+
+
+如果想要私有部署 请安装`python3.8+ `
+新建`front`文件夹，然后将`index.html`和`assets`目录都移动到`front`,在启动python脚本即可
 
 ```bash
 pip install flask
