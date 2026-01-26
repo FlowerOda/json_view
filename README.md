@@ -3,6 +3,8 @@
 
 访问地址:
 https://floweroda.github.io/json_view/
+
+注意：如果选了JP模式是一定需要在检索框输入值的,否则点击美化按钮无效
 # 功能
 - 支持jsonpath检索和路径复制
 - 支持正则、大小写、全字匹配检索
